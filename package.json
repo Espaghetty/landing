@@ -52,7 +52,7 @@
     "remark-rehype": "^10.1.0",
     "remarked": "^0.1.4",
     "tailwindcss": "^2.2.4",
-    "typesense-docsearch-react": "^0.0.2",
+    "typesense-docsearch-react": "^0.2.0",
     "unified": "^10.1.2",
     "unist-util-visit": "^4.1.0",
     "unist-util-visit-parents": "^5.1.0",
